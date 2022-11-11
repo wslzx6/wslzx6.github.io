@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://wslzx6.github.io</id>
+    <title>lzx的小窝</title>
+    <updated>2022-11-11T05:50:42.510Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://wslzx6.github.io"/>
+    <link rel="self" href="https://wslzx6.github.io/atom.xml"/>
+    <subtitle>你好啊，不知名的hxd！</subtitle>
+    <logo>https://wslzx6.github.io/images/avatar.png</logo>
+    <icon>https://wslzx6.github.io/favicon.ico</icon>
+    <rights>All rights reserved 2022, lzx的小窝</rights>
+    <entry>
+        <title type="html"><![CDATA[Steam 下载安装教程 & 游戏推荐]]></title>
+        <id>https://wslzx6.github.io/post/steam-xia-zai-an-zhuang-jiao-cheng-and-you-xi-tui-jian/</id>
+        <link href="https://wslzx6.github.io/post/steam-xia-zai-an-zhuang-jiao-cheng-and-you-xi-tui-jian/">
+        </link>
+        <updated>2022-11-10T08:28:54.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[OBS Studio虚拟摄像头设置]]></title>
+        <id>https://wslzx6.github.io/post/obs-studio-xu-ni-she-xiang-tou-she-zhi/</id>
+        <link href="https://wslzx6.github.io/post/obs-studio-xu-ni-she-xiang-tou-she-zhi/">
+        </link>
+        <updated>2022-10-29T08:27:03.000Z</updated>
+        <summary type="html"><![CDATA[<p>更新时间：2022.10.29</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>更新时间：2022.10.29</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「题解」CSP-S 2022 策略游戏]]></title>
+        <id>https://wslzx6.github.io/post/ti-jie-csp-s-2022/</id>
+        <link href="https://wslzx6.github.io/post/ti-jie-csp-s-2022/">
+        </link>
+        <updated>2022-10-29T03:20:09.000Z</updated>
+        <summary type="html"><![CDATA[<p>更新时间：2022.11.04</p>
+<h2 id="原题链接"><a href="https://www.luogu.com.cn/problem/P8818?contestId=90216">原题链接</a></h2>
+]]></summary>
+        <content type="html"><![CDATA[<p>更新时间：2022.11.04</p>
+<h2 id="原题链接"><a href="https://www.luogu.com.cn/problem/P8818?contestId=90216">原题链接</a></h2>
+]]></content>
+    </entry>
+</feed>
